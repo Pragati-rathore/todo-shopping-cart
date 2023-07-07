@@ -47,7 +47,7 @@ function Movies() {
   return (
     <div className="box">
       <header className="App-header">
-      <h1 style={{marginLeft:"300px"}}>
+      <h1 style={{marginLeft:"250px"}}>
       Movies Name
     </h1>
       </header>
