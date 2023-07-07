@@ -1,0 +1,37 @@
+
+.flex{
+    display: flex;
+}
+
+.head{
+  margin-left: 600px;
+}
+.head h1{
+    font-size: 50px;
+}
+.shop h2{
+    font-size: 30px;
+}
+.shop ul{
+    width: 350px;
+    margin-left: 50px;
+}
+.cart{
+    width: 500px;
+    padding-bottom: 800px;
+    display: inline-block;
+    margin-left: 500px;
+
+
+}
+.item {
+
+    width: 800px;
+    box-sizing:border-box;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.cart p{
+    font-weight: bold;
+}

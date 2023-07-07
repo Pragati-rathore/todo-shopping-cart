@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(187, 199, 227);
+
+}
+.todo-box{
+    align-items: center;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-size:50px;
+
+}
+.input-todo{
+    margin-left: 600px;
+   
+}
+.input{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(36, 19, 118);
+}
+.list{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.text{
+    font-size: 25px;
+    margin-right: 200px;
+}
+.checkbox{
+    margin-left: 50px;
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
+span{
+    width: 100px;
+}
+
+.max{
+    font-size: 25px;
+    font-weight: bold;
+}
+.para{
+    font-size: 25px;
+    color: rgb(5, 5, 5);
+}
